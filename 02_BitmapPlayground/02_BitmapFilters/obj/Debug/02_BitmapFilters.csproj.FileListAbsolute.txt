@@ -1,0 +1,12 @@
+C:\Users\Comak\Downloads\Projects\02_BitmapPlayground\02_BitmapFilters\bin\Debug\02_BitmapFilters.dll
+C:\Users\Comak\Downloads\Projects\02_BitmapPlayground\02_BitmapFilters\bin\Debug\02_BitmapFilters.pdb
+C:\Users\Comak\Downloads\Projects\02_BitmapPlayground\02_BitmapFilters\obj\Debug\02_BitmapFilters.csprojAssemblyReference.cache
+C:\Users\Comak\Downloads\Projects\02_BitmapPlayground\02_BitmapFilters\obj\Debug\02_BitmapFilters.csproj.CoreCompileInputs.cache
+C:\Users\Comak\Downloads\Projects\02_BitmapPlayground\02_BitmapFilters\obj\Debug\02_BitmapFilters.dll
+C:\Users\Comak\Downloads\Projects\02_BitmapPlayground\02_BitmapFilters\obj\Debug\02_BitmapFilters.pdb
+C:\Users\Comak\Downloads\Fatih_Comak_Projects\02_BitmapPlayground\02_BitmapFilters\bin\Debug\02_BitmapFilters.dll
+C:\Users\Comak\Downloads\Fatih_Comak_Projects\02_BitmapPlayground\02_BitmapFilters\bin\Debug\02_BitmapFilters.pdb
+C:\Users\Comak\Downloads\Fatih_Comak_Projects\02_BitmapPlayground\02_BitmapFilters\obj\Debug\02_BitmapFilters.csprojAssemblyReference.cache
+C:\Users\Comak\Downloads\Fatih_Comak_Projects\02_BitmapPlayground\02_BitmapFilters\obj\Debug\02_BitmapFilters.csproj.CoreCompileInputs.cache
+C:\Users\Comak\Downloads\Fatih_Comak_Projects\02_BitmapPlayground\02_BitmapFilters\obj\Debug\02_BitmapFilters.dll
+C:\Users\Comak\Downloads\Fatih_Comak_Projects\02_BitmapPlayground\02_BitmapFilters\obj\Debug\02_BitmapFilters.pdb
